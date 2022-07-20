@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "729748315043",
+    "firebase_url": "https://add-to-truck-f8f3d-default-rtdb.firebaseio.com",
+    "project_id": "add-to-truck-f8f3d",
+    "storage_bucket": "add-to-truck-f8f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729748315043:android:dfd57299ffdf52ae401816",
+        "android_client_info": {
+          "package_name": "com.example.addtotruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729748315043-q738piq75il7si6t2kaqposjlqakgc4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6a4ub02ABrEF_pSl5t-tIy9KvNr9Y6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729748315043-q738piq75il7si6t2kaqposjlqakgc4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729748315043:android:c49a35ff6b3829ea401816",
+        "android_client_info": {
+          "package_name": "com.example.admintotruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729748315043-q738piq75il7si6t2kaqposjlqakgc4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6a4ub02ABrEF_pSl5t-tIy9KvNr9Y6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729748315043-q738piq75il7si6t2kaqposjlqakgc4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
